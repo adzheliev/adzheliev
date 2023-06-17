@@ -1,7 +1,7 @@
 ____
 
 <div>
-    <img src="./assets/icons/banner.png" title="banner" alt="banner" width="1584" height="120"/>
+    <img src="./assets/icons/banner.png" title="banner" alt="banner" width="1584" height="180"/>
 </div>
 
 ---
