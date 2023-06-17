@@ -70,3 +70,22 @@
     </td>
   </tr>
 </table>
+
+---
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=adzheliev&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=adzheliev&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=adzheliev&show_icons=true" />
+</picture>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adzheliev&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
+
