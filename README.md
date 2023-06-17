@@ -1,3 +1,10 @@
+____
+
+<div>
+    <img src="./assets/icons/banner.png" title="banner" alt="banner" width="1584" height="120"/>
+</div>
+
+---
 
 # Привет, меня зовут Алан!
 
