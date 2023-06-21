@@ -1,32 +1,40 @@
-____
+---
 
-<div>
-    <img src="./assets/icons/banner.png" title="banner" alt="banner" width="1584" height="200"/>
-</div>
+# Hello! My name is Alan!
 
 ---
 
-# Привет, меня зовут Алан!
+### :man_technologist: About Me:
 
----
+```python
+class PythonDeveloper:
 
-### :man_technologist: Обо мне:
+    def __init__(self):
+        self.name = "Alan Dzheliev"
+        self.role = "PythonDeveloper"
+        self.language_spoken = ["ru_RU", "en_US", "it_IT"]
 
-Я начинающий Python разработчик. Мой путь в it начался в 2022г., когда товарищ просто предложил мне воспользоваться скидкой на обучение в одной из школ программирования. Я начал обучаться профессии DevOps инженера, пощупал CI/CD, но вскоре понял, что меня больше цепляет именно написание своего кода. Процесс этот увлёк меня настолько, что я принял решение сменить специальность, которой посвятил более 15 лет. C начала 2023г я плотно изучал разработку на Python, фреймворки Django и Flask на курсах Skillbox. В настоящий момент мое обучение на курсе практически завершено и я нахожусь в поиске работы!
+    def say_hi(self):
+        print("Hello there!")
+
+
+me = PythonDeveloper()
+me.say_hi()
+```
 
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :seedling: Завершаю курсы по разработке на Python в Skillbox!
+- :seedling: Completing Skillbox Python development courses!
 
-- :zap: Имею более чем 15-летний стаж в сфере переводов и локализации до перехода в разработку.
+- :zap: Strong 15-year background in technical interpretation and cross-cultural translation before switching to software development.
 
-- :mailbox: Как связаться со мной: [![HH Badge](https://img.shields.io/badge/-hh.ru-critical?style=flat&&logoColor=white)](https://hh.ru/resume/b536aac6ff0c0e2eea0039ed1f6d4d434c5978) [![Telegram Badge](https://img.shields.io/badge/-alandzheliev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djalan84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:djalan84@gmail.com) 
+- :mailbox: Contacts: [![HH Badge](https://img.shields.io/badge/-hh.ru-critical?style=flat&&logoColor=white)](https://hh.ru/resume/b536aac6ff0c0e2eea0039ed1f6d4d434c5978) [![Telegram Badge](https://img.shields.io/badge/-alandzheliev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djalan84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:djalan84@gmail.com) 
 
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/alandzheliev/" target="_blank">
@@ -39,7 +47,7 @@ ____
 
 ---
 
-### 💻 Технологии:
+### 💻 Technology Stack :
 
 <div>
     <img src="./assets/icons/python-icon.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -53,7 +61,7 @@ ____
 
 ---
 
-### 🛠 Инструменты:
+### 🛠 Instruments and tools:
 
 <div>
     <img src="./assets/icons/Github-Dark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
@@ -68,7 +76,7 @@ ____
 
 ---
 
-### ⚙️ GitHub статистика:
+### ⚙️ GitHub statistics:
 
 <table>
   <tr>
