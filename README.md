@@ -74,6 +74,11 @@ me.say_hi()
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/djalan84/badges/large)
+
 ---
 
 ### ⚙️ GitHub statistics:
@@ -83,21 +88,11 @@ me.say_hi()
     <td>
       <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=adzheliev&theme=dark&background=000000" alt="webDev's Github stats" />
     </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adzheliev&layout=compact&theme=vision-friendly-dark" />
+    </td>
   </tr>
 </table>
-
----
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=adzheliev&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=adzheliev&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=adzheliev&show_icons=true" />
-</picture>
 
 ---
 
