@@ -74,6 +74,7 @@ me.say_hi()
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
 ### 💻 Codewars:
 
