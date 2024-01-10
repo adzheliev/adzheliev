@@ -25,12 +25,13 @@ me.say_hi()
 <p align="center">
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
+Diligent, cooperative, and results-driven, I am passionate about coding and constantly strive to learn new methods and approaches that accelerate and simplify the development process while bringing beauty to the code. As a self-professed perfectionist, I take pride in writing clean and concise code. Additionally, I have experience as a mentor, assisting newcomers in solving problems during our course.
 
-- :seedling: Completing Skillbox Python development courses!
+Prior to my transition into software development, I worked as a professional translator and localization engineer for over 15 years. This extensive linguistic background, coupled with more than 23 years of language practice, gives me a unique perspective in the field. Seeking interesting projects and complex tasks, I decided to pursue a career in software development.
 
-- :zap: Strong 15-year background in technical interpretation and cross-cultural translation before switching to software development.
+At the moment, I am actively seeking to join a strong software development team that aligns with my goals and aspirations. I am excited about the opportunity to contribute my skills and collaborate with like-minded individuals to create impactful solutions
 
-- :mailbox: Contacts: [![HH Badge](https://img.shields.io/badge/-hh.ru-critical?style=flat&&logoColor=white)](https://hh.ru/resume/b536aac6ff0c0e2eea0039ed1f6d4d434c5978) [![Telegram Badge](https://img.shields.io/badge/-alandzheliev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djalan84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:djalan84@gmail.com) 
+Contacts: [![HH Badge](https://img.shields.io/badge/-hh.ru-critical?style=flat&&logoColor=white)](https://hh.ru/resume/b536aac6ff0c0e2eea0039ed1f6d4d434c5978) [![Telegram Badge](https://img.shields.io/badge/-alandzheliev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/djalan84) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:djalan84@gmail.com) 
 
 ---
 
@@ -86,9 +87,6 @@ me.say_hi()
 
 <table>
   <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=adzheliev&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=adzheliev&layout=compact&theme=vision-friendly-dark" />
     </td>
